@@ -4,7 +4,7 @@ Web 개발과 AI 추천시스템, 프로그래밍에 관심이 많습니다!*
 
 ---
 - 😄 I am: ...  
-**Name | 신지원(Jiwon Shin)**  
+Name | **신지원(Jiwon Shin)**  
 Education| 연세대학교 Yonsei Univ.  
 Major| 👩🏻‍🔬 화학, 🏛 건축공학과 복수전공  
 B.A. in Chemistry, B.A. in Architecture Engineering  
