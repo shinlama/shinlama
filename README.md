@@ -6,7 +6,8 @@
 - 😄 I am: ...  
 Name | 신지원(Jiwon Shin)  
 Education| 연세대학교(Yonsei Univ.)  
-👩🏻‍🔬 화학, 🏛 건축공학과 복수전공(B.A. in Chemistry, B.A. in Architecture Engineering)  
+Major| 👩🏻‍🔬 화학, 🏛 건축공학과 복수전공
+(B.A. in Chemistry, B.A. in Architecture Engineering)  
 2018.03 ~ 2022.08  
 Likes | Running, pilates, dancing, reading books  
   
@@ -14,7 +15,7 @@ Likes | Running, pilates, dancing, reading books
 SSAFY 8기(Samsung Software Academy for Youth)  
   
 - 🌱 I’m currently learning ...  
-Web full stack, Algorithm, AI, Computer science  
+Web full stack, Algorithm, AI, Computer science, Data science   
 
 - 💻 Tech stack ...  
 Tech stacks that I've used at least once  
