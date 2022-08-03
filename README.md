@@ -19,6 +19,7 @@ Web full stack, Algorithm, AI, Computer science, Data science
 - ### 💻 Tech stacks that I've used at least once  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
 
+---
 - ### 📫 How to reach me:    
 shinlama@yonsei.ac.kr  
 jiwon.shinnn@gmail.com  
