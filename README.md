@@ -20,7 +20,8 @@ Web full stack, Algorithm, AI, Computer science, Data science
 
   
 - ### 💻 Tech stacks that I've used at least once  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
 ---
 
