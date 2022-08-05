@@ -8,14 +8,17 @@ Name | **신지원(Jiwon Shin)**
 Education| 연세대학교 Yonsei Univ.  
 Major| 👩🏻‍🔬 화학과, 🏛 건축공학과 복수전공  
 B.A. in Chemistry, B.A. in Architecture Engineering (2018.03 ~ 2022.08)  
-Likes | Running, pilates, dancing, reading books  
-  
+Likes | Running, Pilates, Dancing, Reading books    
+    
+      
 - ### 🔭 I’m currently working on  
 SSAFY 8th(Samsung Software Academy for Youth)  
   
+    
 - ### 🌱 I’m currently learning  
 Web full stack, Algorithm, AI, Computer science, Data science   
 
+  
 - ### 💻 Tech stacks that I've used at least once  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
 
