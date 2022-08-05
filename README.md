@@ -19,16 +19,25 @@ SSAFY 8th(Samsung Software Academy for Youth)
 Web full stack, Algorithm, AI, Computer science, Data science   
 
   
-- ### 💻 Tech stacks that I've used at least once  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<h3 align="center"> 💻 Tech stacks </h3>
+<h4 align="center"> Techs that I've used at least once</h4>  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/visual-studio-5C2D91?style=for-the-badge&logo=Visual-Studio&logoColor=white">
+</p>
   
 ---
 
-- ### My Blog
-- [My Github Blog](https://shinlama.github.io/CV/)
+<h3 align="center"> My Blog </h3>
+<p align="center">
+[My Github Blog](https://shinlama.github.io/CV/)
 
 ![shinlama's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinlama&theme=buefy&show_icons=true). 
+</p>
 
 ---
 - ### 📫 How to reach me:    
