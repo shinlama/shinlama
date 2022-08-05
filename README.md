@@ -1,6 +1,5 @@
-### Hi there 👋
-*안녕하세요! 저는 많은 사람들에게 유용하고 편리한 서비스를 구현하는 SW 개발자, 엔지니어가 되고 싶습니다.  
-Web 개발과 AI 추천시스템, 프로그래밍에 관심이 많습니다!*  
+<h3 align="center"> Hi there 👋 </h3>
+<h5 align="center"> 안녕하세요! 저는 많은 사람들에게 유용하고 편리한 서비스를 구현하는 SW 개발자, 엔지니어가 되고 싶습니다.</br> 프로그래밍과 AI 추천시스템에 관심이 많습니다.</h5>  
 
 ---
 - ### 😄 Who am I
@@ -18,7 +17,8 @@ SSAFY 8th(Samsung Software Academy for Youth)
 - ### 🌱 I’m currently learning   
 Web full stack, Algorithm, AI, Computer science, Data science   
 
-  
+---
+
 <h3 align="center"> 💻 Tech stacks </h3>
 <h4 align="center"> Techs that I've used at least once</h4>  
 
@@ -40,6 +40,6 @@ Web full stack, Algorithm, AI, Computer science, Data science
 </p>
 
 ---
-- ### 📫 How to reach me:    
-shinlama@yonsei.ac.kr  
-jiwon.shinnn@gmail.com  
+<h3 align="center"> 📫 How to reach me: </h3>
+<h5 align="center"> shinlama@yonsei.ac.kr</br>  
+jiwon.shinnn@gmail.com </h5>
