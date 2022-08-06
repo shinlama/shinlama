@@ -34,7 +34,8 @@ Web full stack, Algorithm, AI, Computer science, Data science
 
 <h3 align="center"> My Blog </h3>
 <p align="center">
-[My Github Blog](https://shinlama.github.io/CV/)
+[Velog 개발 블로그] (https://velog.io/@shinlama)
+[CV] (https://shinlama.github.io/CV)
 
 ![shinlama's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinlama&theme=buefy&show_icons=true). 
 </p>
