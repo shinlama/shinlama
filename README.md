@@ -14,7 +14,7 @@ Likes | Running, Pilates, Dancing, Reading books
 SSAFY 8th(Samsung Software Academy for Youth)  
   
     
-- ### 🌱 I’m currently learning   
+- ### 🌱 I’m interested in   
 Web full stack, Algorithm, AI, Computer science, Data science   
 
 ---
