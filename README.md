@@ -5,7 +5,7 @@
 - ### 😄 Who am I
 Name | **신지원(Jiwon Shin)**  
 Education| 연세대학교 Yonsei Univ.  
-Major| 👩🏻‍🔬 화학과, 🏛 건축공학과 복수전공  
+Major| 👩🏻‍🔬 화학 및 의화학과, 🏛 건축공학과 복수전공  
 B.A. in Chemistry, B.A. in Architecture Engineering (2018.03 ~ 2022.08)  
 Likes | Running, Pilates, Dancing, Reading books    
     
